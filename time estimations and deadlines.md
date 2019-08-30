@@ -25,4 +25,4 @@ Statistics	| | [10 hours]
 
 Many of the HackerRank assessments will ask for a cohort ID. Your cohort ID: **sf19_ds16**.
 
-Additional Resources: If you feel you have less experience or exposure in any of the areas above, we encourage you to spend more time there. There are exercises available for python, statistics, SQL, and D3 in the additional resources section found here. 
+**Additional Resources:** If you feel you have less experience or exposure in any of the areas above, we encourage you to spend more time there. There are exercises available for python, statistics, SQL, and D3 in [the additional resources section found here.](https://github.com/thisismetis/dsp/tree/master/lessons/more_resources)
