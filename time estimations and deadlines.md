@@ -1,13 +1,13 @@
-**Pre-Work Due Dates**  :fireworks:
+**Pre-Work Assignments and Due Dates**  :fireworks:
 
 
 Complete? | Topic | Due Date | Estimated Time | Github | HackerRank
 ------- | ------- |--------  | -------------- | ------ | ---------- 
   | | Setup & Foundational Tools | | [12.5 hours]		
  |  |  | **August 25**	| 1 hour |	[Mastering Markdown](https://github.com/thisismetis/dsp/blob/master/lessons/markdown)
- |  | | |  1 hour | [Fork Github Repo](https://github.com/thisismetis/dsp/blob/master/lessons/git_fork)
- |   | | |  1 hour	| [Python Install](https://github.com/thisismetis/dsp/blob/master/lessons/install)
- |   | | |  1 hour |	[Jupyter Notebook](https://github.com/thisismetis/dsp/blob/master/lessons/install_jupyter)
+:white_check_mark: |  | | |  1 hour | [Fork Github Repo](https://github.com/thisismetis/dsp/blob/master/lessons/git_fork)
+:white_check_mark: |   | | |  1 hour	| [Python Install](https://github.com/thisismetis/dsp/blob/master/lessons/install)
+:white_check_mark: |   | | |  1 hour |	[Jupyter Notebook](https://github.com/thisismetis/dsp/blob/master/lessons/install_jupyter)
  |   | | |  2 hours	| [Choose and learn your editors](https://github.com/thisismetis/dsp/blob/master/lessons/editors)
    | | | |  4 hours	| [Learn Command Line](https://github.com/thisismetis/dsp/blob/master/lessons/command_line)
  |   | | |  1 hour	| [Getting started with Git](https://github.com/thisismetis/dsp/blob/master/lessons/git_intro)
