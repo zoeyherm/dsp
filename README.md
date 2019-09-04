@@ -69,3 +69,6 @@ Yes
 
 #### Q:  Can I ask for hints for python questions?
 Yes
+
+#### Q: Can I update this file as an exercise when practicing git?
+Yes
