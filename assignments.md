@@ -10,8 +10,8 @@ Complete? | Topic | Due Date | Estimated Time | Github | HackerRank
 :white_check_mark: | | |  1 hour |	[Jupyter Notebook](https://github.com/thisismetis/dsp/blob/master/lessons/install_jupyter)
 :white_check_mark: | | |  2 hours	| [Choose and learn your editors](https://github.com/thisismetis/dsp/blob/master/lessons/editors)
 :white_check_mark: | | |  4 hours	| [Learn Command Line](https://github.com/thisismetis/dsp/blob/master/lessons/command_line)
-| | | |  1 hour	| [Getting started with Git](https://github.com/thisismetis/dsp/blob/master/lessons/git_intro)
-| | | |  30 minutes	| [Introduction to Git Branches](https://github.com/thisismetis/dsp/blob/master/lessons/git_branches)
+:white_check_mark: | | |  1 hour	| [Getting started with Git](https://github.com/thisismetis/dsp/blob/master/lessons/git_intro)
+:white_check_mark: | | |  30 minutes	| [Introduction to Git Branches](https://github.com/thisismetis/dsp/blob/master/lessons/git_branches)
 | | | **August 26**	|1 hour	| | 	[Foundational Tools Assessment](http://hr.gs/metis_setup_quiz)
 | | Python |	| [26 hours]		
 | |  | **September 1**	| 11 hours |	[Learn Python](https://github.com/thisismetis/dsp/blob/master/lessons/python_intro)	| [Python Basics Assessment](https://www.hackerrank.com/tests/8m6rq2l95ce/23fdcf3cdca59977a3283d8200d9055e)
