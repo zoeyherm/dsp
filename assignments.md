@@ -16,7 +16,7 @@ Complete? | Topic | Due Date | Estimated Time | Github | HackerRank
 | | Python |	| [26 hours]		
 :white_check_mark: |  | **September 1**	| 11 hours |	[Learn Python](https://github.com/thisismetis/dsp/blob/master/lessons/python_intro)	| [Python Basics Assessment](https://www.hackerrank.com/tests/8m6rq2l95ce/23fdcf3cdca59977a3283d8200d9055e)
 | | |  **September 2** |	1 hour	| |	[Python Quick Quiz](http://hr.gs/python_quick_quiz)
-| | |  **September 8** |	11 hours	| [Advanced Python](https://github.com/thisismetis/dsp/blob/master/lessons/python_advanced) |	[Advanced Python Assessment](https://www.hackerrank.com/tests/26irkei0251/6bb559f23e4bb1d1e9cd66fc886f76a9?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
+:white_check_mark: | |  **September 8** |	11 hours	| [Advanced Python](https://github.com/thisismetis/dsp/blob/master/lessons/python_advanced) |	[Advanced Python Assessment](https://www.hackerrank.com/tests/26irkei0251/6bb559f23e4bb1d1e9cd66fc886f76a9?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
 | | |  **September 15** |	3 hours |	[Python Pandas](https://github.com/thisismetis/dsp/blob/master/lessons/pandas_intro) |	[Pandas Assessment](https://www.hackerrank.com/tests/beg202nchad/a3ae8be11d8345e83400e68ea9fa10e5)
 | | Linear Algebra |	| [2 hours]		
 | | | **September 15**	 |2 hours	| [Linear Algebra](https://github.com/thisismetis/dsp/blob/master/lessons/linear_algebra)	| [Linear Algebra Assessment](https://www.hackerrank.com/tests/f069ddpl41e/b2a178cb63902abefe98edde08055336?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
