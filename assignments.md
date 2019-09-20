@@ -20,8 +20,8 @@ Complete? | Topic | Due Date | Estimated Time | Github | HackerRank
 :white_check_mark: | |  **September 15** |	3 hours |	[Python Pandas](https://github.com/thisismetis/dsp/blob/master/lessons/pandas_intro) |	[Pandas Assessment](https://www.hackerrank.com/tests/beg202nchad/a3ae8be11d8345e83400e68ea9fa10e5)
 :white_check_mark: | Linear Algebra |	| [2 hours]		
 :white_check_mark: | | **September 15**	 |2 hours	| [Linear Algebra](https://github.com/thisismetis/dsp/blob/master/lessons/linear_algebra)	| [Linear Algebra Assessment](https://www.hackerrank.com/tests/f069ddpl41e/b2a178cb63902abefe98edde08055336?mc_cid=ac2b0f9662&mc_eid=2dc3f53bdb)
-| | Statistics	| | [10 hours]		
-| | | **September 22** |	10 hours |	[Think Stats](https://github.com/thisismetis/dsp/blob/master/lessons/statistics)
+:white_check_mark: | Statistics	| | [10 hours]		
+:white_check_mark: | | **September 22** |	10 hours |	[Think Stats](https://github.com/thisismetis/dsp/blob/master/lessons/statistics)
 
 Many of the HackerRank assessments will ask for a cohort ID. Your cohort ID: **sf19_ds16**.
 
